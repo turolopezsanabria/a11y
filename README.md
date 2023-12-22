@@ -1,2 +1,2 @@
 # a11y
-Resources for accessibility
+Accessibility resources
