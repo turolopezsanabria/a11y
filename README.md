@@ -22,6 +22,7 @@ Accessibility resources
 * [Accessibility gov.uk](https://accessibility.blog.gov.uk/)
 * [What a Year of Learning and Teaching Accessibility Taught Me](https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me/)
 * [Understanding accessibility dot com](https://www.understandingaccessibility.com/)
+* [Aria vs HTML](https://adrianroselli.com/2023/02/aria-vs-html.html)
 
 ## Tools
 
