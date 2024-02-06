@@ -38,6 +38,7 @@ Accessibility resources
 ## Courses
 
 * [Practical Accessibility Today](https://practical-accessibility.today/)
+* [Accessibility for Designers](https://smashingconf.com/online-workshops/workshops/accessibility-design-stephanie-walter/)
 
 ## a11y section in Design Systems
 
